@@ -1,7 +1,7 @@
 # Pixelwyre
 
 [![GitHub Org](https://img.shields.io/badge/organization-Pixelwyre-blue?logo=github)](https://github.com/Pixelwyre)
-[![First Semester](https://img.shields.io/badge/semester-1-orange)](https://www.fast.edu.pk/)
+[![Second Semester](https://img.shields.io/badge/semester-2-orange)](https://www.fast.edu.pk/)
 
 Welcome to **Pixelwyre**, a GitHub organization for collaborative projects by students from **FAST University Karachi**, First Semester. Here, we share our **coding, gaming, and web development projects**.  
 
