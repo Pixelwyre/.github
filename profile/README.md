@@ -8,7 +8,7 @@ Welcome to **Pixelwyre**, a GitHub organization for collaborative projects by st
 ---
 
 ## About Us
-We are **Sameer Adnan** and **Shayan Asim**, passionate developers exploring **C/C++ game development, web technologies, and more**. This organization serves as a portfolio of our ongoing semester projects and learning journey.  
+We are **Sameer Adnan**, **Shayan Asim**, and **Rohail**, passionate developers exploring **C/C++ game development, web technologies, and more**. This organization serves as a portfolio of our ongoing semester projects and learning journey.  
 
 ---
 
@@ -36,11 +36,12 @@ We are **Sameer Adnan** and **Shayan Asim**, passionate developers exploring **C
 ---
 
 ## Contributing
-Currently, projects are primarily managed by **Sameer Adnan** and **Shayan Asim**. Contributions from others are welcome through forks and pull requests.  
+Currently, projects are primarily managed by **Sameer Adnan**, **Shayan Asim**, and **Rohail**. Contributions from others are welcome through forks and pull requests.  
 
 ---
 
 ## Contact
 - **Sameer Adnan:** [GitHub](https://github.com/SameerAdnanK250600)  
 - **Shayan Asim:** [GitHub](https://github.com/shayan-asim10)  
+- **Rohail:** [GitHub](https://github.com/Rohail004)  
 - **Email:** sameer.adnan@proton.me
